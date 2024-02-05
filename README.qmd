@@ -19,27 +19,25 @@ Ao final da disciplina, esperamos que você, estudante de Direito, tenha se conv
 slides <- fs::dir_ls("materiais/slides", regexp = "html$") |>
   tibble::enframe("arquivo", "link") |>
   dplyr::mutate(
-    link = paste0("[link](https://jtrecenti.github.io/main-cdad2/", link, ")")
+    link = paste0("[link](https://jtrecenti.github.io/202461-cdad2/", link, ")")
   )
 apostilas <- fs::dir_ls("materiais/apostilas", regexp = "ipynb$", recurse = TRUE) |>
   tibble::enframe("arquivo", "link") |>
   dplyr::mutate(
-    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
+    link = paste0("[link](https://github.com/jtrecenti/202461-cdad2/tree/main/", link, ")")
   )
 
 desafios <- fs::dir_ls("materiais/desafios", regexp = "ipynb$", recurse = TRUE) |>
   tibble::enframe("arquivo", "link") |>
   dplyr::mutate(
-    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
+    link = paste0("[link](https://github.com/jtrecenti/202461-cdad2/tree/main/", link, ")")
   )
 
 homework <- fs::dir_ls("materiais/homeworks", regexp = "ipynb$", recurse = TRUE) |>
   tibble::enframe("arquivo", "link") |>
   dplyr::mutate(
-    link = paste0("[link](https://github.com/jtrecenti/main-cdad2/tree/main/", link, ")")
+    link = paste0("[link](https://github.com/jtrecenti/202461-cdad2/tree/main/", link, ")")
   )
-
-
 ```
 
 ### Slides

@@ -24,22 +24,22 @@ identificar oportunidades de negócio.
 
 ### Slides
 
-| arquivo                               | link                                                                                 |
-|:--------------------------------------|:-------------------------------------------------------------------------------------|
-| materiais/slides/01-sobre-curso.html  | [link](https://jtrecenti.github.io/main-cdad2/materiais/slides/01-sobre-curso.html)  |
-| materiais/slides/02-case-camaras.html | [link](https://jtrecenti.github.io/main-cdad2/materiais/slides/02-case-camaras.html) |
+| arquivo                               | link                                                                                   |
+|:--------------------------------------|:---------------------------------------------------------------------------------------|
+| materiais/slides/01-sobre-curso.html  | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/01-sobre-curso.html)  |
+| materiais/slides/02-case-camaras.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/02-case-camaras.html) |
 
 ### Apostilas
 
-| arquivo                                                         | link                                                                                                                      |
-|:----------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------|
-| materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
+| arquivo                                                         | link                                                                                                                        |
+|:----------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
 
 ### Homeworks
 
-| arquivo                               | link                                                                                            |
-|:--------------------------------------|:------------------------------------------------------------------------------------------------|
-| materiais/homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/main-cdad2/tree/main/materiais/homeworks/01-homework.ipynb) |
+| arquivo                               | link                                                                                              |
+|:--------------------------------------|:--------------------------------------------------------------------------------------------------|
+| materiais/homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/01-homework.ipynb) |
 
 ## Licença
 
