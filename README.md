@@ -28,18 +28,29 @@ identificar oportunidades de negócio.
 |:--------------------------------------|:---------------------------------------------------------------------------------------|
 | materiais/slides/01-sobre-curso.html  | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/01-sobre-curso.html)  |
 | materiais/slides/02-case-camaras.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/02-case-camaras.html) |
+| materiais/slides/03-proporcoes.html   | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/03-proporcoes.html)   |
 
 ### Apostilas
 
-| arquivo                                                         | link                                                                                                                        |
-|:----------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------|
-| materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb) |
+| arquivo                                                                                     | link                                                                                                                                                    |
+|:--------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb                             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/01-tipos-variaveis/01-tipos-variaveis.ipynb)                             |
+| materiais/apostilas/02-organizacao-dados-taxas/02-organizacao-dados-taxas.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/02-organizacao-dados-taxas/02-organizacao-dados-taxas.ipynb)             |
+| materiais/apostilas/03-medidas-posicao-variabilidade/03-medidas-posicao-variabilidade.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/03-medidas-posicao-variabilidade/03-medidas-posicao-variabilidade.ipynb) |
+| materiais/apostilas/04-visualizacao-seaborn/04-visualizacao-seaborn.ipynb                   | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/04-visualizacao-seaborn/04-visualizacao-seaborn.ipynb)                   |
+| materiais/apostilas/05-amostras-populacoes/05-amostras-populacoes.ipynb                     | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/05-amostras-populacoes/05-amostras-populacoes.ipynb)                     |
+| materiais/apostilas/06-probabilidade-cnormal/06-probabilidade-cnormal.ipynb                 | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/apostilas/06-probabilidade-cnormal/06-probabilidade-cnormal.ipynb)                 |
 
 ### Homeworks
 
 | arquivo                               | link                                                                                              |
 |:--------------------------------------|:--------------------------------------------------------------------------------------------------|
 | materiais/homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/01-homework.ipynb) |
+| materiais/homeworks/02-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/02-homework.ipynb) |
+| materiais/homeworks/03-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/03-homework.ipynb) |
+| materiais/homeworks/04-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/04-homework.ipynb) |
+| materiais/homeworks/05-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/05-homework.ipynb) |
+| materiais/homeworks/06-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/06-homework.ipynb) |
 
 ## Licença
 
