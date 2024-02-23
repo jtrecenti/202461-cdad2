@@ -24,12 +24,13 @@ identificar oportunidades de negócio.
 
 ### Slides
 
-| arquivo                                  | link                                                                                      |
-|:-----------------------------------------|:------------------------------------------------------------------------------------------|
-| materiais/slides/01-sobre-curso.html     | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/01-sobre-curso.html)     |
-| materiais/slides/02-case-camaras.html    | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/02-case-camaras.html)    |
-| materiais/slides/03-proporcoes.html      | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/03-proporcoes.html)      |
-| materiais/slides/04-medidas-posicao.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-posicao.html) |
+| arquivo                                        | link                                                                                            |
+|:-----------------------------------------------|:------------------------------------------------------------------------------------------------|
+| materiais/slides/01-sobre-curso.html           | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/01-sobre-curso.html)           |
+| materiais/slides/02-case-camaras.html          | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/02-case-camaras.html)          |
+| materiais/slides/03-proporcoes.html            | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/03-proporcoes.html)            |
+| materiais/slides/04-medidas-posicao.html       | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-posicao.html)       |
+| materiais/slides/04-medidas-variabilidade.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-variabilidade.html) |
 
 ### Apostilas
 
