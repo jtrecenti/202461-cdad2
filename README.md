@@ -31,6 +31,7 @@ identificar oportunidades de negócio.
 | materiais/slides/03-proporcoes.html            | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/03-proporcoes.html)            |
 | materiais/slides/04-medidas-posicao.html       | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-posicao.html)       |
 | materiais/slides/04-medidas-variabilidade.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-variabilidade.html) |
+| materiais/slides/05-visualizacao.html          | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/05-visualizacao.html)          |
 
 ### Apostilas
 
