@@ -33,6 +33,7 @@ identificar oportunidades de negócio.
 | materiais/slides/04-medidas-variabilidade.html | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/04-medidas-variabilidade.html) |
 | materiais/slides/05-visualizacao.html          | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/05-visualizacao.html)          |
 | materiais/slides/06-visualizacao-2.html        | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/06-visualizacao-2.html)        |
+| materiais/slides/07-amostragem.html            | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/07-amostragem.html)            |
 
 ### Apostilas
 
