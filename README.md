@@ -48,14 +48,17 @@ identificar oportunidades de negócio.
 
 ### Homeworks
 
-| arquivo                               | link                                                                                              |
-|:--------------------------------------|:--------------------------------------------------------------------------------------------------|
-| materiais/homeworks/01-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/01-homework.ipynb) |
-| materiais/homeworks/02-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/02-homework.ipynb) |
-| materiais/homeworks/03-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/03-homework.ipynb) |
-| materiais/homeworks/04-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/04-homework.ipynb) |
-| materiais/homeworks/05-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/05-homework.ipynb) |
-| materiais/homeworks/06-homework.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/06-homework.ipynb) |
+| arquivo                                           | link                                                                                                          |
+|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------|
+| materiais/homeworks/01-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/01-homework.ipynb)             |
+| materiais/homeworks/02-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/02-homework.ipynb)             |
+| materiais/homeworks/03-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/03-homework.ipynb)             |
+| materiais/homeworks/04-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/04-homework.ipynb)             |
+| materiais/homeworks/05-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/05-homework.ipynb)             |
+| materiais/homeworks/06-homework.ipynb             | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/06-homework.ipynb)             |
+| materiais/homeworks/homework-extra-pandas.ipynb   | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/homework-extra-pandas.ipynb)   |
+| materiais/homeworks/homework_extra.ipynb          | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/homework_extra.ipynb)          |
+| materiais/homeworks/homework_extra_gabarito.ipynb | [link](https://github.com/jtrecenti/202461-cdad2/tree/main/materiais/homeworks/homework_extra_gabarito.ipynb) |
 
 ## Licença
 
