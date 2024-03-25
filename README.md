@@ -1,4 +1,5 @@
 
+
 # Ciência de Dados Aplicada ao Direito II (CDAD2) – Turma 202461
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -36,6 +37,7 @@ identificar oportunidades de negócio.
 | materiais/slides/07-amostragem.html            | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/07-amostragem.html)            |
 | materiais/slides/08-amostragem-2.html          | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/08-amostragem-2.html)          |
 | materiais/slides/09-revisao.html               | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/09-revisao.html)               |
+| materiais/slides/10-probabilidade.html         | [link](https://jtrecenti.github.io/202461-cdad2/materiais/slides/10-probabilidade.html)         |
 
 ### Apostilas
 
